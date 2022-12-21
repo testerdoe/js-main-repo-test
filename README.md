@@ -9,7 +9,7 @@
 		<img src="https://img.shields.io/badge/basic%20calculator-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
 	</a>
 	<a href="https://testerdoe.github.io/js-main-repo-test/interactiveJSexercises/scheduleChecker/">
-		<img src="https://img.shields.io/badge/schedule%checker-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
+		<img src="https://img.shields.io/badge/schedule%20checker-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
 	</a>
 	<a href="https://testerdoe.github.io/js-main-repo-test/interactiveJSexercises/increasedWageCalc/">
 		<img src="https://img.shields.io/badge/increased%20wage%20calculator-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">
